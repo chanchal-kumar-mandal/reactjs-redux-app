@@ -1,6 +1,17 @@
 ## Description
 This is cart application on react redux. We are updating cart value depending on add/remove button click.
 
+## Demo screenshots
+
+<img width="1440" alt="Screen Shot 2022-04-09 at 12 16 30 PM" src="https://user-images.githubusercontent.com/14269798/162560598-1a9d3238-be5f-4214-89d7-6796d26a46a1.png">
+
+<img width="1440" alt="Screen Shot 2022-04-09 at 12 18 06 PM" src="https://user-images.githubusercontent.com/14269798/162560601-434e164c-deb8-40fa-be01-b7bd73c390d7.png">
+
+<img width="1440" alt="Screen Shot 2022-04-09 at 12 18 33 PM" src="https://user-images.githubusercontent.com/14269798/162560603-276f2d50-de5a-41df-839f-a3c53b740256.png">
+
+<img width="1440" alt="Screen Shot 2022-04-09 at 12 18 51 PM" src="https://user-images.githubusercontent.com/14269798/162560608-2733eabe-f1b5-40a0-b3d0-48f743b1a93d.png">
+
+
 ## Requirements
 
 ### Install Nodejs
