@@ -1,5 +1,5 @@
 ## Description
-This is cart application on react redux. We are updating cart value depending on add/remove button click.
+This is cart application on react redux. We are updating cart value depending on add/remove button click. 
 
 ## Demo screenshots
 
